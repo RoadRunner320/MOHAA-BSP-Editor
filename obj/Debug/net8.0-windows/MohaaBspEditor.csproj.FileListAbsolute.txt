@@ -1,0 +1,28 @@
+C:\Users\Akame\Desktop\тест\bin\Debug\net8.0-windows\MohaaBspEditor.exe
+C:\Users\Akame\Desktop\тест\bin\Debug\net8.0-windows\MohaaBspEditor.deps.json
+C:\Users\Akame\Desktop\тест\bin\Debug\net8.0-windows\MohaaBspEditor.runtimeconfig.json
+C:\Users\Akame\Desktop\тест\bin\Debug\net8.0-windows\MohaaBspEditor.dll
+C:\Users\Akame\Desktop\тест\bin\Debug\net8.0-windows\MohaaBspEditor.pdb
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\MohaaBspEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\MohaaBspEditor.AssemblyInfoInputs.cache
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\MohaaBspEditor.AssemblyInfo.cs
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\MohaaBspEditor.csproj.CoreCompileInputs.cache
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\MohaaBspEditor.dll
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\refint\MohaaBspEditor.dll
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\MohaaBspEditor.pdb
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\MohaaBspEditor.genruntimeconfig.cache
+C:\Users\Akame\Desktop\тест\obj\Debug\net8.0-windows\ref\MohaaBspEditor.dll
+C:\Users\Akame\Desktop\тест — копия\bin\Debug\net8.0-windows\MohaaBspEditor.exe
+C:\Users\Akame\Desktop\тест — копия\bin\Debug\net8.0-windows\MohaaBspEditor.deps.json
+C:\Users\Akame\Desktop\тест — копия\bin\Debug\net8.0-windows\MohaaBspEditor.runtimeconfig.json
+C:\Users\Akame\Desktop\тест — копия\bin\Debug\net8.0-windows\MohaaBspEditor.dll
+C:\Users\Akame\Desktop\тест — копия\bin\Debug\net8.0-windows\MohaaBspEditor.pdb
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\MohaaBspEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\MohaaBspEditor.AssemblyInfoInputs.cache
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\MohaaBspEditor.AssemblyInfo.cs
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\MohaaBspEditor.csproj.CoreCompileInputs.cache
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\MohaaBspEditor.dll
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\refint\MohaaBspEditor.dll
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\MohaaBspEditor.pdb
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\MohaaBspEditor.genruntimeconfig.cache
+C:\Users\Akame\Desktop\тест — копия\obj\Debug\net8.0-windows\ref\MohaaBspEditor.dll
